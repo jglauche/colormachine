@@ -1,0 +1,9 @@
+[package]
+name = "colormachine"
+version = "1.0.0"
+authors = ["Jennifer Glauche <=^.^=@rust19.kittenme.ws>"]
+edition = "2018"
+
+[dependencies]
+termion = ""
+rand = ""
